@@ -31,7 +31,7 @@ Voici une représentation typique du plateau de jeu :
 1. **Cloner le dépôt** :
 Clonez le dépôt GitHub et accédez au dossier du projet :
 ```bash
-  git clone <url_du_dépôt>
+  git clone https://github.com/Mael2612/Naval_Battle.git
   cd Naval_Battle
 ```
 ## **🚀 Lancement**
