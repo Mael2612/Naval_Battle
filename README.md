@@ -1,11 +1,3 @@
-
-
-
-<p align="center">
-  <img src="./public/battleship.png" alt="Logo du projet" width="400">
-</p>
-
-
 # **🛳️ Naval Battle**
 
 ## **Description**
@@ -28,34 +20,7 @@ Voici une représentation typique du plateau de jeu :
   8 [ .  .  .  .  .  .  .  . ]
 ```
 
-**Légende :**  
-**.** : Zone inexplorée ou intacte.  
-**X** : Position d'un navire.  
-**@** : Zone touchée avec succès.  
-**O** : Zone visée mais manquée.  
 
-
-
-## **⚙️ Fonctionnalités**
-- **Mode facile** : Les navires ont une taille de 1x1.
-- **Placement des navires** : Chaque joueur place ses navires sur une matrice 8x8.
-- **Tours de jeu alternés** : Chaque joueur attaque une seule position par tour.
-- **Historique des actions** : Un journal des actions est affiché après chaque tour.
-- **Affichage dynamique de la grille** : Les grilles des joueurs se mettent à jour en fonction des attaques.
-
-  ---
-
-  
-
-## **📚 Structure du Projet**
-```plaintext
-├── 📂 public
-│   └── 📂 resources          # Fichiers de ressources du jeu
-└── 📂 src
-    ├── 📂 interfaces         # Interfaces TypeScript pour les données du jeu
-    ├── 📂 lib                # Bibliothèques et logique principale
-    └── 📂 utils              # Fonctions utilitaires
-```
 
 ## </> Scripts
 **npm run compile :** *Compile le code TypeScript en JavaScript.*  
@@ -63,17 +28,11 @@ Voici une représentation typique du plateau de jeu :
 
 ## ⚙️ Installation
 
-### 1. **Pré-requis**
-Assurez-vous que les outils suivants sont installés sur votre machine :
-- **Node.js** (version LTS recommandée)
-- **TypeScript** (si vous n'utilisez pas Docker)
-
-### 2. **Installation**
 1. **Cloner le dépôt** :
 Clonez le dépôt GitHub et accédez au dossier du projet :
 ```bash
   git clone <url_du_dépôt>
-  cd <nom_du_projet>
+  cd Naval_Battle
 ```
 ## **🚀 Lancement**
 
