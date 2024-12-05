@@ -51,14 +51,3 @@ Installez toutes les dépendances nécessaires au fonctionnement du projet :
 ```bash
   npm start
 ```
-
----
-
-## 🌟 Ressources Utilisées
-- [TypeScript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/fr)
-- [readline-sync](https://github.com/anseki/readline-sync)
-- [ETNA Linter](https://github.com/etna-alternance/ETNA-Linter)
-
-
-# Préparez-vous, plongez dans l'aventure et combattez jusqu'au dernier ennemi ! 💥⚔️ Bonne chance, Capitaine ! 🎮
